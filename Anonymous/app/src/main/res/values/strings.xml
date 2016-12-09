@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Anonymous</string>
+    <string name="phone_no_empty">电话号码不等于空</string>
+    <string name="success_get_code">获取验证码成功</string>
+    <string name="fail_get_code">获取验证码失败</string>
+    <string name="connecting">连接</string>
+    <string name="please_again_login">请再次登陆</string>
+    <string name="connecting_to_server">链接到服务器</string>
+    <string name="success_to_login">succeed login</string>
+    <string name="fail_to_login">fail to login,please try again</string>
+    <string name="content_is_not_empty">评论不能为空</string>
+    <string name="fail_to_publish_comment">发表评论失败</string>
+    <string name="message_is_not_empty">亲，内容不能为空</string>
+    <string name="fail_set_message">发表消息失败</string>
+</resources>
